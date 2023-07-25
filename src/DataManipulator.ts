@@ -1,7 +1,7 @@
 import { ServerRespond } from './DataStreamer';
 
 export interface Row {
-  price_abc: number,
+    price_abc: number,
     price_def: number,
     ratio: number,
     timestamp: Date,
